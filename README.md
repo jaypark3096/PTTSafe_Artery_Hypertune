@@ -1,4 +1,5 @@
 # PTTSafe_Artery_Hypertune
+Physiology-Constrained Multi-Modal Signal Synchronization and Refinement for Cuffless Continuous Blood Pressure Estimation
 Physiological PTT-Preserved ECG-PPG Synchronization and Industrial-Grade Preprocessing Enable Cuffless Blood Pressure Estimation with Intra-Arterial Accuracy
 
 
@@ -15,3 +16,7 @@ pip install numpy==1.23.5 pandas openpyxl scikit-learn tqdm matplotlib seaborn p
 
 data:
 https://huggingface.co/datasets/peter962/PTTSafe_Artery_Hypertune
+
+cmd
+python show.py --fold 1 --num_normal 30
+python PTTSafe_Artery_Hypertune.py --cv
