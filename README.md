@@ -19,4 +19,5 @@ https://huggingface.co/datasets/peter962/PTTSafe_Artery_Hypertune
 
 cmd
 python show.py --fold 1 --num_normal 30
+
 python PTTSafe_Artery_Hypertune.py --cv
