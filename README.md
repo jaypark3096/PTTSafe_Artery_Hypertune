@@ -1,8 +1,11 @@
 # PTTSafe_Artery_Hypertune
 Physiological PTT-Preserved ECG-PPG Synchronization and Industrial-Grade Preprocessing Enable Cuffless Blood Pressure Estimation with Intra-Arterial Accuracy
+
 conda create -n drink python=3.10 -y
+
 conda activate drink
-pip install torch==1.12.1+cu116 torchvision==0.13.1+cu116 torchaudio==0.12.1 -f https://mirrors.aliyun.com/pytorch-wheels/cu116
+
+pip install torch==1.12.1+cu116 torchvision==0.13.1+cu116 torchaudio==0.12.1  
 
 pip install numpy==1.23.5 pandas openpyxl scikit-learn tqdm matplotlib seaborn pyPPG==1.0.14 neurokit2 dotmap scipy
 
