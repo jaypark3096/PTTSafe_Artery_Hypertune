@@ -1,0 +1,172 @@
+[
+  {
+    "fold": 1,
+    "train": [
+      "new_final_10.mat",
+      "new_final_11.mat",
+      "new_final_12.mat",
+      "new_final_13.mat",
+      "new_final_14.mat",
+      "new_final_15.mat",
+      "new_final_16.mat",
+      "new_final_18.mat",
+      "new_final_19.mat",
+      "new_final_20.mat",
+      "new_final_21.mat",
+      "new_final_22.mat",
+      "new_final_23.mat",
+      "new_final_25.mat",
+      "new_final_3.mat"
+    ],
+    "val": [
+      "new_final_4.mat",
+      "new_final_5.mat",
+      "new_final_6.mat",
+      "new_final_7.mat",
+      "new_final_9.mat"
+    ],
+    "test": [
+      "new_final_1.mat",
+      "new_final_17.mat",
+      "new_final_2.mat",
+      "new_final_24.mat",
+      "new_final_8.mat"
+    ]
+  },
+  {
+    "fold": 2,
+    "train": [
+      "new_final_1.mat",
+      "new_final_11.mat",
+      "new_final_12.mat",
+      "new_final_13.mat",
+      "new_final_15.mat",
+      "new_final_16.mat",
+      "new_final_17.mat",
+      "new_final_19.mat",
+      "new_final_2.mat",
+      "new_final_20.mat",
+      "new_final_22.mat",
+      "new_final_23.mat",
+      "new_final_24.mat",
+      "new_final_25.mat",
+      "new_final_3.mat"
+    ],
+    "val": [
+      "new_final_4.mat",
+      "new_final_5.mat",
+      "new_final_6.mat",
+      "new_final_8.mat",
+      "new_final_9.mat"
+    ],
+    "test": [
+      "new_final_10.mat",
+      "new_final_14.mat",
+      "new_final_18.mat",
+      "new_final_21.mat",
+      "new_final_7.mat"
+    ]
+  },
+  {
+    "fold": 3,
+    "train": [
+      "new_final_1.mat",
+      "new_final_10.mat",
+      "new_final_14.mat",
+      "new_final_15.mat",
+      "new_final_16.mat",
+      "new_final_17.mat",
+      "new_final_18.mat",
+      "new_final_19.mat",
+      "new_final_2.mat",
+      "new_final_21.mat",
+      "new_final_22.mat",
+      "new_final_24.mat",
+      "new_final_25.mat",
+      "new_final_3.mat",
+      "new_final_4.mat"
+    ],
+    "val": [
+      "new_final_5.mat",
+      "new_final_6.mat",
+      "new_final_7.mat",
+      "new_final_8.mat",
+      "new_final_9.mat"
+    ],
+    "test": [
+      "new_final_11.mat",
+      "new_final_12.mat",
+      "new_final_13.mat",
+      "new_final_20.mat",
+      "new_final_23.mat"
+    ]
+  },
+  {
+    "fold": 4,
+    "train": [
+      "new_final_1.mat",
+      "new_final_10.mat",
+      "new_final_11.mat",
+      "new_final_12.mat",
+      "new_final_13.mat",
+      "new_final_14.mat",
+      "new_final_15.mat",
+      "new_final_16.mat",
+      "new_final_17.mat",
+      "new_final_18.mat",
+      "new_final_19.mat",
+      "new_final_2.mat",
+      "new_final_20.mat",
+      "new_final_21.mat",
+      "new_final_22.mat"
+    ],
+    "val": [
+      "new_final_23.mat",
+      "new_final_24.mat",
+      "new_final_4.mat",
+      "new_final_7.mat",
+      "new_final_8.mat"
+    ],
+    "test": [
+      "new_final_25.mat",
+      "new_final_3.mat",
+      "new_final_5.mat",
+      "new_final_6.mat",
+      "new_final_9.mat"
+    ]
+  },
+  {
+    "fold": 5,
+    "train": [
+      "new_final_1.mat",
+      "new_final_10.mat",
+      "new_final_11.mat",
+      "new_final_12.mat",
+      "new_final_13.mat",
+      "new_final_14.mat",
+      "new_final_17.mat",
+      "new_final_18.mat",
+      "new_final_2.mat",
+      "new_final_20.mat",
+      "new_final_21.mat",
+      "new_final_23.mat",
+      "new_final_24.mat",
+      "new_final_25.mat",
+      "new_final_3.mat"
+    ],
+    "val": [
+      "new_final_5.mat",
+      "new_final_6.mat",
+      "new_final_7.mat",
+      "new_final_8.mat",
+      "new_final_9.mat"
+    ],
+    "test": [
+      "new_final_15.mat",
+      "new_final_16.mat",
+      "new_final_19.mat",
+      "new_final_22.mat",
+      "new_final_4.mat"
+    ]
+  }
+]
