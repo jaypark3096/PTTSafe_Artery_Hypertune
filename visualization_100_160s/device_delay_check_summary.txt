@@ -1,0 +1,48 @@
+=== Device Delay Check Summary Report ===
+
+Data directory: drink_process_data
+Output directory: visualization_100_160s
+Analysis time window: 100s to 160s
+CSV file: signal_metrics_100_160s.csv
+Total files processed: 25
+
+Quality Summary:
+  GOOD: 19 files
+  SUSPICIOUS: 0 files
+  POOR: 6 files
+  ERROR: 0 files
+  NO_VALID_DATA: 0 files
+  INSUFFICIENT_DATA: 0 files
+
+Key Metrics Summary:
+  Average SBP: 117.5 ± 12.1
+  Average DBP: 71.7 ± 7.3
+  Average PPG HR: 60.4 ± 15.5
+  Average ECG HR: 55.0 ± 18.8
+
+Detailed Results:
+  new_final_1.mat: SUCCESS - GOOD
+  new_final_10.mat: SUCCESS - GOOD
+  new_final_11.mat: SUCCESS - GOOD
+  new_final_12.mat: SUCCESS - GOOD
+  new_final_13.mat: SUCCESS - GOOD
+  new_final_14.mat: SUCCESS - POOR
+  new_final_15.mat: SUCCESS - GOOD
+  new_final_16.mat: SUCCESS - GOOD
+  new_final_17.mat: SUCCESS - POOR
+  new_final_18.mat: SUCCESS - GOOD
+  new_final_19.mat: SUCCESS - GOOD
+  new_final_2.mat: SUCCESS - GOOD
+  new_final_20.mat: SUCCESS - GOOD
+  new_final_21.mat: SUCCESS - GOOD
+  new_final_22.mat: SUCCESS - POOR
+  new_final_23.mat: SUCCESS - POOR
+  new_final_24.mat: SUCCESS - GOOD
+  new_final_25.mat: SUCCESS - GOOD
+  new_final_3.mat: SUCCESS - GOOD
+  new_final_4.mat: SUCCESS - GOOD
+  new_final_5.mat: SUCCESS - GOOD
+  new_final_6.mat: SUCCESS - GOOD
+  new_final_7.mat: SUCCESS - POOR
+  new_final_8.mat: SUCCESS - POOR
+  new_final_9.mat: SUCCESS - GOOD
